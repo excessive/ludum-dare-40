@@ -1,0 +1,17 @@
+-D luajit
+-D lua-jit
+-D lua-ver=5.1
+-D desktop
+-D haxe_octree
+# -D dump=pretty
+-D imgui
+
+-cp src/backend/love/bindings
+-cp src
+-dce full
+--each
+
+-main Main
+-lua main.lua
+
+-cmd "love ."

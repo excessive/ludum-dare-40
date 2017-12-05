@@ -1,0 +1,1 @@
+{"keep_positions":false,"entities":[{"pos":[-2,0,0],"rot":[0,0,0,1],"id":0,"scale":[2,4,3],"model":"assets/models/city/ramp.iqm","rails":[[1,-0.5,1,1,0.5,1]],"collision":1},{"pos":[2,0,0],"rot":[6.1232339957368e-17,-6.1232339957368e-17,1,6.1232338457874e-17],"id":1,"scale":[2,4,3],"model":"assets/models/city/ramp.iqm","rails":[],"collision":1}]}
